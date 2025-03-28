@@ -1,0 +1,4 @@
+[AntiRevoke]
+enable = true
+admins = [""]
+cache_timeout = 300
